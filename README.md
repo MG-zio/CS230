@@ -1,2 +1,14 @@
 # CS230
 Projects from class CS230 at Southern New Hampshire University
+
+In this class, I was tasked with designing a proposal for a piece of software for my client, The Gaming Room. My client was looking to create a web client that ran their game, Draw It or Lose It, which currently runs on only Android. I created a software design document and began the development of the software in Java.
+
+My most potent part of the design document was the recommendations at the end. This section tied the whole project together and showed my understanding of what must be considered when planning for a project like this. It also showcased my analysis by having me choose things like what operating system to use, how memory management should be done, and how to deal with security while considering how they would be applicable in this piece of software.
+
+The design document guided me through the creation of the software by providing a clear vision for the program while noting the specific requirements that were necessary. Having a UML Diagram was great for understanding how the program would function. It gave me an overview of the main components and how they would interact with each other. Most of decision-making being done in this document also helps to reduce errors or poor decision making which would have to be corrected in the future.
+
+The thing I would be most likely revise in my design document would be parts of the evaluation table. I think I just lack some knowledge of Mac and mobile devices and might have some of the facts wrong on them as I have little first-hand experience working with them. For example, my knowledge on running a server on MacOS is very minimal and I could only write about what I read in articles and the textbook which could be out of date.
+
+User needs were a major part of the crafting of the software design document. The most obvious reason is that having software that aligns with the user's desires leads to a more satisfied customer. It is more than just taking what the user states they want in the program, however. It is also important to consider what your users expect and prefer to create features and user interfaces that mesh with those expectations. I also think that taking these needs into consideration in the design process will reduce the number of iterations the software will have to go through.
+
+My approach to software design is to first come up with a comprehensive plan that clearly illustrates how the program will function. This would include a wireframe diagram like the UML one in my document. It would also have the pros and cons of things like performance optimization strategies and structures for security. Before any of this though, I would be certain I knew what the user’s desires in the final product would be and I would design to represent what I thought that would look like.
